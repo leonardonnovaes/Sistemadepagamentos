@@ -1,0 +1,14 @@
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\bin\Debug\net10.0\Sistemadepagamentos.exe
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\bin\Debug\net10.0\Sistemadepagamentos.deps.json
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\bin\Debug\net10.0\Sistemadepagamentos.runtimeconfig.json
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\bin\Debug\net10.0\Sistemadepagamentos.dll
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\bin\Debug\net10.0\Sistemadepagamentos.pdb
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\Sistemadepagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\Sistemadepagamentos.AssemblyInfoInputs.cache
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\Sistemadepagamentos.AssemblyInfo.cs
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\Sistemadepagamentos.csproj.CoreCompileInputs.cache
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\Sistemadepagamentos.dll
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\refint\Sistemadepagamentos.dll
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\Sistemadepagamentos.pdb
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\Sistemadepagamentos.genruntimeconfig.cache
+C:\Users\novae\Desktop\Sistemadepagamentos\Sistemadepagamentos\obj\Debug\net10.0\ref\Sistemadepagamentos.dll
